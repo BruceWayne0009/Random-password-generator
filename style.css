@@ -1,0 +1,70 @@
+body{
+    background-color: antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+#numOfChar{
+    text-align: center;
+    font-size: 2em;
+    
+}
+
+input{
+    font-size: 0.6em;
+}
+
+form{
+    box-shadow: 15px 15px 20px;
+    border-radius: 5px;
+    border: none;
+    height: 500px;
+    width: 800px;
+    margin-left: 25%;
+    background-color: aquamarine;
+    
+}
+
+.container{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h3{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#result{
+    text-align: center;
+    margin-top: 2em;
+    font-size: 1.5em;
+}
+
+button{
+    text-align: center;
+    width: 30%;
+    background-color: rgb(255, 85, 0);
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.2em;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgba(224, 68, 12, 0.742);
+}
+
