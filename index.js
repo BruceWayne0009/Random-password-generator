@@ -12,8 +12,8 @@ function generatePassword() {
     return;
 }
  
-  const uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-  const lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
+  const Uppercasechars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  const Lowercasechars = "abcdefghijklmnopqrstuvwxyz";
   const Numbers = "0123456789";
   const Symbols = "!@#$%^&*()_+~`|}{[]:;?><,./-=";
 
